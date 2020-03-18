@@ -32,4 +32,4 @@ comments: false
 
 ## 試玩影片
 
-{% youtube jUOPJFuuscM %}
+<iframe width="720" height="405" src="https://www.youtube.com/embed/jUOPJFuuscM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
