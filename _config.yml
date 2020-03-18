@@ -9,7 +9,7 @@ description: "一點生活，一些抱怨，一些夢想"
 keywords:
 author: 小皇
 language: zh-TW
-timezone: 'UTC+08:00'
+timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

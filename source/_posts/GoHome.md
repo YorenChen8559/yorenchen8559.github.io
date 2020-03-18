@@ -4,9 +4,6 @@ date: 2020-03-17 19:00:00
 tags: 作品
 permalink: GoHome.html
 hide_copyright: true
-cover: https://raw.githubusercontent.com/YorenChen8559/yorenchen8559.github.io/hexo/image/BackHomeCover.png
-coverWidth: 1440
-coverHeight: 810 
 ---
 
 ## 故事背景
@@ -33,4 +30,5 @@ coverHeight: 810
 　　在這個專案中遇到最大的挫折是當中的方塊要拉上去排列的部分，原本以為是跟市面上的轉珠系統一樣，但後來發覺有些地方不太相同，因為這是一塊塊出現的(轉珠是所有珠子原本都在面板上)，並且每一種的方塊的形狀也不一樣，Collider與方塊圖案的大小也不能一樣，必須縮小一些、卻又不能太小， 在這之中調整了很多次，在 code 上面也為了因應各種不同的不同形狀還有擺法去寫對應的設定，在後期企劃新增了擺方塊時的預覽功能，原先以為會加重工作，卻發現放上預覽功能反而能更好的讓方塊擺放的程式更加簡化。
 
 ## 試玩影片
+
 {% youtube jUOPJFuuscM %}
