@@ -3,7 +3,6 @@ title: 異境歸途
 date: 2020-03-17 19:00:00
 tags: 作品
 permalink: GoHome.html
-hide_copyright: true
 comments: false
 photos: 
 - /img/postpic/BackHomeCover.png
