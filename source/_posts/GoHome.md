@@ -5,6 +5,9 @@ tags: 作品
 permalink: GoHome.html
 hide_copyright: true
 comments: false
+photos: 
+- /img/postpic/BackHomeCover.png
+- ""
 ---
 
 ## 故事背景
